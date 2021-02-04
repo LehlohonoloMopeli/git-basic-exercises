@@ -1,0 +1,337 @@
+    1  cd Documents/SFAS Project Files/SFAS Software Code
+    2  cd Documents/SFAS Project Files/SFAS Software Code
+    3  cd Documents
+    4  cd SFAS Project Files/SFAS Software Code
+    5  cd SFAS Project Files
+    6  cd SFAS-Project-Files
+    7  cd SFAS-Software-Code
+    8  git clone https://github.com/UnityGameDesign-max/SFAS_Coding_Project.git
+    9  git clone https://github.com/UnityGameDesign-max/SFAS_Coding_Project.git
+   10  git status
+   11  git clone https://github.com/UnityGameDesign-max/SFAS_Coding_Project.git
+   12  git clone https://github.com/UnityGameDesign-max/SFAS_Coding_Project.git
+   13  git clone https://github.com/UnityGameDesign-max/SFAS_Coding_Project.git
+   14  ls
+   15  cd SFAS_Coding_Project
+   16  ls
+   17  git status
+   18  git commit -m " Adding Templates and Routing"
+   19  git add .
+   20  git commit -m "Adding templates and Routing"
+   21  git push
+   22  git config --global user.email "lehlohonolompl@gmail.com"
+   23  git config --global user.name "LehlohonoloMopeli"
+   24  git add .
+   25  git commit -m "Adding templates and Routing"
+   26  git push
+   27  git pull
+   28  git status
+   29  git push
+   30  ls
+   31  git push
+   32  git status
+   33  ls
+   34  cd /Documents
+   35  cd Documents/
+   36  cd SFAS-Software-Code/
+   37  cd SFAS-Project-Files/
+   38  cd SFAS-Software-Code/
+   39  git status
+   40  cd SFAS_Coding_Project
+   41  git status
+   42  git push
+   43  git pull
+   44  cd Documents/
+   45  cd SFAS-Software-Code/
+   46  cd SFAS-Project-Files/
+   47  cd SFAS-Software-Code/
+   48  cd SFAS_Coding_Project
+   49  git status
+   50  cd .
+   51  cd ..
+   52  cd Hloni Codes
+   53  cd Hloni Codes
+   54  cd Hloni_Codes
+   55  ls
+   56  git status
+   57  cd ..
+   58  cd SFAS_Coding_Project
+   59  ls
+   60  git add Debtor_Registration.py
+   61  git status
+   62  git push
+   63  git status
+   64  git add .
+   65  git commit -m a a "changes to files and deleted some of the files"
+   66  git commit -m a a "changes to files and deleted some of the files"
+   67  git status
+   68  git commit -m "CHANGED FILES"
+   69  git status
+   70  cd Documents/SFAS-SOFTWARE-CODE
+   71  cd Documents/SFAS-Project-Files
+   72  cd SFAS-SOFTWARE-CODE
+   73  cd SFAS-Coding_Project
+   74  cd SFAS-Coding_Project
+   75  cd SFAS_Coding_Project
+   76  ls
+   77  cd Documents
+   78  cd SFAS-Project-Files
+   79  cd SFAS-Software-Code-Collaboration
+   80  cd SFAS_Project_Accounting
+   81  git status
+   82  git add -u
+   83  git status
+   84  git commit -m "Fixed templates"
+   85  git push
+   86  git status
+   87  cd Documents
+   88  cd SFAS-Project-Files
+   89  cd SFAS-Software-Code-Collaboration
+   90  cd SFAS_Project_Accounting
+   91  ls
+   92  git status
+   93  git commit -u
+   94  git add -u
+   95  git status
+   96  git commit -m "aDDING MODIFICATION OF FILES"
+   97  git push
+   98  git status
+   99  git push
+  100  git pull
+  101  git push
+  102  ls
+  103  git reset
+  104  git status
+  105  cd Documents
+  106  cd SFAS-Project-Files
+  107  cd SFAS-Software-Code-Collaboration
+  108  cd SFAS_Project_Accounting
+  109  ls
+  110  ls
+  111  git status
+  112  git reset --keep HEAD@{1}
+  113  git status
+  114  cd Documents
+  115  cd SFAS-Project-Files
+  116  cd SFAS-Software-Code-Collaboration
+  117  cd SFAS_Project_Accounting
+  118  ls
+  119  git status
+  120  git pull
+  121  ls
+  122  pwd
+  123  cd Documents
+  124  cd SFAS-Project-Files
+  125  cd SFAS-Software-Code-Collaboration
+  126  cd SFAS_Project_Accounting
+  127  cd registration-backend
+  128  pip install mysql-connector
+  129  pip install mysql-connector-python
+  130  pip install mysql-connector-python-rf
+  131  cd Documents
+  132  cd SFAS-Project-Files
+  133  cd SFAS-Software-Code-Collaboration
+  134  cd SFAS_Project_Accounting
+  135  cd main-system-backend
+  136  pip install mysql-connector
+  137  cd Documents
+  138  cd SFAS-Project-Files
+  139  cd SFAS-Software-Code-Collaboration
+  140  cd SFAS_Project_Accounting
+  141  cd main-system-backend
+  142  pwd
+  143  ls
+  144  python main_system_db.py
+  145  python main_system_db.py
+  146   python main_system_db.py
+  147   python main_system_db.py
+  148  python my_main_db.py
+  149  python main_system_db.py
+  150  python main_system_db.py
+  151  cd Documents
+  152  cd SFAS-Project-Files
+  153  cd SFAS-Software-Code-Collaboration
+  154  cd SFAS_Project_Accounting
+  155  cd main-system-backend
+  156  python main_system_db.py
+  157  python main_system_dbl.py
+  158  python main_system_db.py
+  159  python main_system_db.py
+  160  python main_system_db.py
+  161  python main_system_db.py
+  162  python main_system_db.py
+  163  python main_system_db.py
+  164  python main_system_db.py
+  165  python main_system_db.py
+  166  python main_system_db.py
+  167  python main_system_db.py
+  168  python main_system_db.py
+  169  python main_system_db.py
+  170  python main_system_db.py
+  171  python main_system_db.py
+  172  python main_system_db.py
+  173  python main_system_db.py
+  174  python main_system_db.py
+  175  python main_system_db.py
+  176  python main_system_db.py
+  177  cd Documents
+  178  cd SFAS-Project-Files
+  179  cd SFAS-Software-Code-Collaboration
+  180  cd SFAS_Project_Accounting
+  181  cd main-system-backend
+  182  cd Document
+  183  cd Documents
+  184  cd SFAS-Project-Files
+  185  cd SFAS-Software-Code-Collaboration
+  186  cd SFAS_Project_Accounting
+  187  cd main-system-backend
+  188  python main_system_db.py
+  189  python main_system_db.py
+  190  python main_system_db.py
+  191  python main_system_db.py
+  192  python main_system_db.py
+  193  cd Documents
+  194  cd SFAS-Project-Files
+  195  cd SFAS-Software-Code-Collaboration
+  196  cd SFAS_Project_Accounting
+  197  pip install mysql-connector
+  198  python debtors_registration_db.py
+  199  cd Registration_backend_2
+  200  python debtors_registration_db.py
+  201  cd Documents
+  202  cd SFAS-Project-Files
+  203  cd SFAS-Software-Code-Collaboration
+  204  cd SFAS_Project_Accounting
+  205  cd Registration_backend_2
+  206  python debtors_registration_db.py
+  207  python debtors_registration_db.py
+  208  python debtors_registration_db.py
+  209  python debtors_registration_db.py
+  210  cd Documents
+  211  cd SFAS-Project-Files
+  212  cd SFAS-Software-Code-Collaboration
+  213  cd Fast_API
+  214  pip install mysql-connector
+  215  python database_mysql.py
+  216  python database_mysql.py
+  217  python database_mysql.py
+  218  python database_mysql.py
+  219  pip install mysql-connector-python
+  220  pip uninstall mysql-connector
+  221  pip install mysql-connector-python
+  222  pip uninstall mysql-connector
+  223   cd \__init__.py
+  224  cd C:\Users\Lehlohonolo Mopeli\Documents\SFAS-Project-Files\SFAS-Software-Code-Collaboration\Phase_2_Backend
+  225  cd Documents
+  226  cd SFAS-Project-Files
+  227  cd SFAS-Software-Code-Collaboration
+  228  cd Phase_2_Backend
+  229  git clone https://github.com/LehlohonoloMopeli/IBS-Backend.git
+  230  git init
+  231  git status
+  232  cd ..
+  233  cd IBS-Backend
+  234  cd ..
+  235  git clone https://github.com/LehlohonoloMopeli/IBS-Backend.git
+  236  cd IBS-Backend
+  237  git status
+  238  git add
+  239  git add .
+  240  git commit
+  241  cd Documents
+  242  cd SFAS-Project-Files
+  243  cd SFAS-Software-Code-Collaboration
+  244  cd IBS-Backend
+  245  git status
+  246  git commit -m "Initial Commit"
+  247  git push origin main
+  248  cd Documents
+  249  cd SFAS-Project-Files
+  250  cd SFAS-Software-Code-Collaboration
+  251  cd IBS-Backend
+  252  git status
+  253  git push origin main
+  254  status
+  255  git status
+  256  sudo apt update
+  257  source "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/activate"
+  258  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  259  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  260  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  261  exit
+  262  source "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/activate"
+  263  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  264  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  265  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  266  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/app/bank_account.py"
+  267  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  268  exit
+  269  source "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/activate"
+  270  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  271  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  272  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  273  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  274  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  275  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  276  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  277  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  278  "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/env/Scripts/python.exe" "c:/Users/Lehlohonolo Mopeli/Documents/Programming/Learning Programming/slqalchemy_dummy/main.py"
+  279  exit
+  280  source "c:/Users/Lehlohonolo Mopeli/Documents/Programming/SFAS-Project-Files/SFAS-Software-Code-Collaboration/IBS_Client_Backend_SQLAlchemy/env/Scripts/activate"
+  281  hypercorn app.main:app --reload
+  282  exit
+  283  cd tinder-clone
+  284  npm run
+  285  npm start
+  286  cd ..
+  287  git status
+  288  git add tinder-clone/
+  289  cd tinder-clone
+  290  git status
+  291  git add src/App.css
+  292  git commit -m "initial commit"
+  293  git push origin main
+  294  git push
+  295  git push origin main https://github.com/LehlohonoloMopeli/Tinder_Clone
+  296  git remote add Tinder_Clone https://github.com/LehlohonoloMopeli/Tinder_Clone
+  297  git push Tinder_Clone
+  298  git push --set-upstream Tinder_Clone master
+  299  git status
+  300  git add src/App.js
+  301  git commit -m "initial commit"
+  302  git status
+  303  git add src/index.css
+  304  git commit -m "initial commit"
+  305  git add public/tinder-logo.png
+  306  git add src/Header.css
+  307  git add src/Header.js
+  308  git commit -m "initial commit"
+  309  git remote add Tinder_Clone https://github.com/LehlohonoloMopeli/Tinder_Clone
+  310  git remote add Hloni https://github.com/LehlohonoloMopeli/Tinder_Clone
+  311  git push --set-upstream Hloni master
+  312  exit
+  313  npm install @material-ui/core
+  314  npm install @material-ui/icons
+  315  npm install @material-ui/icons
+  316  exit
+  317  touch README.md
+  318  git add README.md
+  319  git init
+  320  git add README.md
+  321  git commit -m "initial commit"
+  322  git add README.md
+  323  git commit -m "second commit"
+  324  git add README.md
+  325  git commit -m "third commit"
+  326  git log
+  327  git log
+  328  git branch milkshake-flavours
+  329  git branch
+  330  git checkout milkshake-flavours
+  331  touch milkshakes.md
+  332  git add milkshakes.md
+  333  git commit -m "added initial flavours"
+  334  git checkout main
+  335  git checkout master
+  336  git checkout -b history
+  337  history > history.txt
